@@ -104,6 +104,4 @@ novakart-react/
 
 localStorage lives in each visitor's browser — accounts, carts and orders are per-browser, not shared across devices, and clearing site data wipes them. Right trade-off for a demo/portfolio; the upgrade path is replacing `lib/db.js` with API calls to a real backend.
 
----
 
-Built as a learning/portfolio project. All product data is fictional. Not affiliated with Amazon.
